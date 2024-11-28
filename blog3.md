@@ -1,4 +1,5 @@
 **My Journey into CI/CD: Automating Software Delivery**
+
 When I first stepped into the world of DevOps, one of the concepts that immediately grabbed my attention was CI/CD — Continuous Integration and Continuous Deployment/Delivery. It sounded like magic: code that gets tested, packaged, and deployed automatically with minimal manual effort. The more I explored it, the more I realized how essential it is for delivering software quickly and reliably. In this blog, I’ll share my experience learning CI/CD, why it’s such a game-changer, and how I got started with it.
 
 **What I Learned About CI/CD**
